@@ -1,5 +1,11 @@
-# LethalMods
-Made using [Lethal Company SDK](https://github.com/HolographicWings/LethalSDK-Unity-Project)
+<div align="center">
+
+# CURRENTLY A WORK IN PROGRESS.
+## CHECK OUT THE LETHAL EXPANSION VERSION [HERE](https://github.com/Spookybuddy/LethalMods)
+
+</div>
+
+Made using [Nomnom's Project Patcher](https://github.com/nomnomab/lc-project-patcher) and [this](https://www.youtube.com/watch?v=dnZG5464ZcE&t=1195s) tutorial.
 
 # Features:
 **Custom Moons:**
@@ -92,7 +98,5 @@ The planet has since been abandoned, leaving the treasure-filled buildings to be
 
 # Credits
 All assets within the Solarius and Cesspool mods belong to me.
-
-Lethal SDK and its assets belong to [HolographicWings](https://github.com/HolographicWings/).
 
 Lethal Company and all of its assets belong to Zeekerss.
