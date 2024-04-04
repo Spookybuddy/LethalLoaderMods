@@ -70,3 +70,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Removed all folders besides the mods because I am unsure about the legality of uploading the ripped game
+/[Aa]sset[Rr]ipper[Oo]utput~/
+/[Ll]ethal [Cc]ompany/
+/[Aa]ssets/[Ll]ethal[Cc]ompany/[Gg]ame/
