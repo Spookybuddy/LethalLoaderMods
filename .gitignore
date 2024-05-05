@@ -75,3 +75,10 @@ crashlytics-build.properties
 /[Aa]sset[Rr]ipper[Oo]utput~/
 /[Ll]ethal [Cc]ompany/
 /[Aa]ssets/[Ll]ethal[Cc]ompany/[Gg]ame/
+/[Aa]ssets/[Ll]ethal[Cc]ompany/[Mm]ods/[Cc]ustom[Oo]utside[Oo]bjects/
+/[Aa]ssets/[Ll]ethal[Cc]ompany/[Mm]ods/[Cc]ustom[Ss]crap[Ii]njection/
+/[Aa]ssets/[Ll]ethal[Cc]ompany/[Mm]ods/[Ee]xample[Cc][Oo][Oo]/
+/[Aa]ssets/[Ll]ethal[Cc]ompany/[Mm]ods/[Pp]oob[Aa]sset
+*.coo
+*.poob
+*.lem

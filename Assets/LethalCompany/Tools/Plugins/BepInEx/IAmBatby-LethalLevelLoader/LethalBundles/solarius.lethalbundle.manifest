@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1358203099
+CRC: 3474032210
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c3fbd926ba53ab8db8906c2ba3e07ed4
+    Hash: 0843e5f3c4718ed8a72517491cee4818
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 88dfc8d7c044a497d4c6f413a68bf581
+    Hash: 5a2b003b7928b5c56303edc5e335eec6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c3fbd926ba53ab8db8906c2ba3e07ed4
+    Hash: 0843e5f3c4718ed8a72517491cee4818
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -56,6 +56,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 70b342d8ce5c2fd48b8fa3147d48d1d1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 98f6b308ebb322849b197214cd81c7f8, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 21778afdc14c5cb449f8d3503f4cb3c0, type: 3}
 - Class: 114
@@ -111,7 +113,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: ad791ae31c770e94ebc50f768187c030, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 7e9e4ed5a6f56fb4ebd693e39684f36f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9b16521cf853ea42a7d16fe9460733b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2ce4497ae60773d4ea98a9ea1d6430d8, type: 3}
 - Class: 114
@@ -119,7 +125,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 6c7a943f88c24524583944860d477c4c, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 41ff92ea8618b4c4c9351c343d901dfb, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 3a8c1d8ce8413cc408b7aa638279e656, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1efe03f163e3c6e49a5e9b914dc7e4ae, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: daeaf8b41c0752046abd4f201259e2d9, type: 3}
 - Class: 114
@@ -145,6 +155,14 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 953beb541740ddc499d005ee80c9ff29, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: d0a3e05d99335e74d80b67c172999040, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8ecdf4074d02fa4db705ca895e39f48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c89a725df97714d4eb70b4858187ba5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 955027ebced5c1b429e6ac8fea24682f, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 3bfe367b618319240b10abe53b0557a3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 47ec0eaf9358995438a4e1ea8504c3e5, type: 3}
@@ -152,6 +170,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 13c7fa85bea7d0a4aa97227c5a0c8c9b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 389db98ef4e38b047a46708e409f1bf7, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 42663ccfe56641d469e59953ce7dbb6b, type: 3}
 - Class: 114
@@ -164,6 +184,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 0a44472b948d53a4ba2470b010f703d8, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 673f83996c05602409fed36b4ffeec77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5e700a669b7e33348871e89ede65f349, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7ddcec8a8eb2d684d833ac8f5d26aebd, type: 3}
 - Class: 114
@@ -188,6 +210,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: b714ee64c4c11754082e65596200c14f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f4654810f3d6a9148aee6856f0c1bfc0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c14d09fb0e0fd849a1c0a6614535c44, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 25034190658856749a42d4231b3955cb, type: 3}
 - Class: 114
@@ -252,6 +276,10 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 73398921
   Script: {instanceID: 0}
+- Class: 1818360608
+  Script: {instanceID: 0}
+- Class: 1818360609
+  Script: {instanceID: 0}
 - Class: 2083052967
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
@@ -272,6 +300,10 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: InteractEventFloat
 - AssemblyName: Assembly-CSharp
+  ClassName: MiscAnimation
+- AssemblyName: Assembly-CSharp
+  ClassName: NavSizeLimit
+- AssemblyName: Assembly-CSharp
   ClassName: RandomAudioClip
 - AssemblyName: Assembly-CSharp
   ClassName: RandomWeatherWithVariables
@@ -283,6 +315,10 @@ SerializeReferenceClassIdentifiers:
   ClassName: SpawnableMapObject
 - AssemblyName: Assembly-CSharp
   ClassName: SpawnableOutsideObjectWithRarity
+- AssemblyName: Assembly-CSharp
+  ClassName: Threat
+- AssemblyName: Assembly-CSharp
+  ClassName: ThreatType
 - AssemblyName: Assembly-CSharp
   ClassName: switchToAudio
 - AssemblyName: LethalLevelLoader
@@ -453,10 +489,9 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/player ship test
   6_sails_normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Tunnel_BaseMap.png
-- Assets/LethalCompany/Mods/Solarius/Prefabs/Crate 1x1 0.2.prefab
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Beneath_Normal.png
-- Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Doorways_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Ladder_DefaultMaterial_Normal.png
+- Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Doorways_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/player ship test
   6_hull_main_normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/vorpal/vorpal_normal_opengl.png
@@ -477,7 +512,6 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/player ship test
   6_hull_observation_normal.png
 - Assets/LethalCompany/Mods/Solarius/Materials/posts.mat
-- Assets/LethalCompany/Mods/Solarius/Prefabs/Barrel 1 0.2.prefab
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/ship_hull_observation_mask.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Barricade_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Textures/Pole_basemap.jpg
@@ -536,7 +570,6 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Wall_Left_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/hoverboard/hoverboard_n2.png
 - Assets/LethalCompany/Mods/Solarius/Materials/Shader/Blink 0.mat
-- Assets/LethalCompany/Mods/Solarius/Prefabs/Crate 2x3.prefab
 - Assets/LethalCompany/Mods/Solarius/Materials/wall-middle.mat
 - Assets/LethalCompany/Mods/Solarius/Models/spin.fbx
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/legs_normal_opengl.png
@@ -570,7 +603,6 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Wall_Back_BaseMap.png
 - Assets/LethalCompany/Mods/Solarius/Models/Crate 1x1 0.2.fbx
 - Assets/LethalCompany/Mods/Solarius/Materials/ships/vorpal.mat
-- Assets/LethalCompany/Mods/Solarius/Prefabs/Beam.prefab
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/player ship test
   6_wings_basecolor.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Wire_Normal.png
