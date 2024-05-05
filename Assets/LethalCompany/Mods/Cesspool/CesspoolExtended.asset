@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1150276337, guid: 73bbe94362a968f46b75d87298ef90b8, type: 3}
+  m_Name: CesspoolExtended
+  m_EditorClassIdentifier: 
+  contentSourceName: 
+  selectableLevel: {fileID: 11400000, guid: 0fdb6e188b3be1d43b414284558e3f3a, type: 2}
+  routePrice: 0
+  isHidden: 0
+  isLocked: 0
+  lockedNodeText: 
+  storyLogs: []
+  allowedDungeonContentTypes: 2
+  levelTags: []
+  levelType: 0
+  infoNodeDescripton: 
+  routeNode: {fileID: 0}
+  routeConfirmNode: {fileID: 0}
+  infoNode: {fileID: 0}
+  generateAutomaticConfigurationOptions: 1
