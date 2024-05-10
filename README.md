@@ -13,7 +13,7 @@ Made using [Nomnom's Project Patcher](https://github.com/nomnomab/lc-project-pat
 
 | Name | Risk Level | Cost | Layout | Map Size Multiplier | Min Scrap | Max Scrap | Max Indoor Power | Max Outdoor Power | Weathers |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Solarius | ??? | 0 | [Factory](https://lethal.miraheze.org/wiki/Interiors#The_Factory) | 1.4 | 19 | 32 | 20 | 7 | Foggy, Eclipsed |
+| Solarius | ??? | 0 | [Factory](https://lethal.miraheze.org/wiki/Interiors#The_Factory) | 1.4 | 19 | 32 | 19 | 7 | Foggy, Eclipsed |
 | Cesspool | Hurry | 0 | [Factory](https://lethal.miraheze.org/wiki/Interiors#The_Factory) | 1.2 | 15 | 19 | 8 | 15 | Always Flooded |
 
 ‎ 
@@ -73,13 +73,15 @@ The planet has since been abandoned, leaving the treasure-filled buildings to be
 
 <div align="center">
 
-| Scrap | Rarity | | Scrap | Rarity | | Scrap | Rarity | | Scrap | Rarity | | Scrap | Rarity |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Jar of Pickles | 8.51% | | Red Soda | 7.02% | | Egg Beater | 4.04% | | Big Bolt | 2.55% | | Hairdryer | 1.06% |
-| Flask | 8.51% | | Steering Wheel | 6.17% | | Yield Sign | 3.62% | | Coffee Mug | 2.13% | | Teeth | 1.06% |
-| Plastic Fish | 8.09% | | Bottles | 5.96% | | Rubber Duck | 2.98% | | Dustpan | 1.91% | | Easter Egg | 1.06% |
-| Toothpaste | 8.09% | | Stop Sign | 5.53% | | Large Axle | 2.98% | | Whoopie Cushion | 1.49% | | Brass Bell | 0.85% |
-| Chemical Jug | 7.45% | | Cookie Mold Pan | 4.04% | | Tea Kettle | 2.98% | | Metal Sheet | 1.49% | | Gold Bar | 0.43%|
+| Scrap | Rarity | | Scrap | Rarity | | Scrap | Rarity | | Scrap | Rarity |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Jar of Pickles | 8.51% | | Steering Wheel | 6.17% |  | Rubber Duck | 2.98% | | Whoopie Cushion | 1.49% | 
+| Flask | 8.51% |          | Bottles | 5.96% |         | Large Axle | 2.98% |  | Metal Sheet | 1.49% | 
+| Plastic Fish | 8.09% |   | Stop Sign | 5.53% |       | Tea Kettle | 2.98% |  | Hairdryer | 1.06% | 
+| Toothpaste | 8.09% |     | Cookie Mold Pan | 4.04% | | Big Bolt | 2.55% |    | Teeth | 1.06% | 
+| Chemical Jug | 7.45% |   | Egg Beater | 4.04% |      | Coffee Mug | 2.13% |  | Easter Egg | 1.06% | 
+| Red Soda | 7.02% |       | Yield Sign | 3.62% |      | Dustpan | 1.91% |     | Brass Bell | 0.85% |
+|          |       |       |            |       |      |         |       |     | Gold Bar | 0.43% |
 
 | Indoor Enemies | Spawn Chance | | Outdoor Enemies | Spawn Chance | | Daytime Enemies | Spawn Chance |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
