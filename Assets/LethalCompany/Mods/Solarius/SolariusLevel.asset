@@ -38,7 +38,7 @@ MonoBehaviour:
     weatherVariable: 1
     weatherVariable2: 0
   - weatherType: 5
-    weatherVariable: 3
+    weatherVariable: 2
     weatherVariable2: 0
   overrideWeather: 0
   overrideWeatherType: 0
@@ -183,52 +183,52 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
   spawnableOutsideObjects:
-  - spawnableObject: {fileID: 11400000, guid: 01d923c2ba8e11e419c82a2d465b0559, type: 2}
+  - spawnableObject: {fileID: 11400000, guid: 621683c9c10a0ab45891a46391bc6392, type: 2}
     randomAmount:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
-        inSlope: 1
-        outSlope: 1
-        tangentMode: 34
-        weightedMode: 0
+        value: 2
+        inSlope: 1.3097277
+        outSlope: 1.3097277
+        tangentMode: 0
+        weightedMode: 3
         inWeight: 0
-        outWeight: 0.33333334
+        outWeight: 1
       - serializedVersion: 3
         time: 1
-        value: 1
-        inSlope: 1
-        outSlope: 1
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
+        value: 15.845
+        inSlope: 3604.1482
+        outSlope: 3604.1482
+        tangentMode: 0
+        weightedMode: 3
+        inWeight: 0.003067255
         outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-  - spawnableObject: {fileID: 11400000, guid: 142efeb8ebe5031409aeaf4e5bfbeeff, type: 2}
+  - spawnableObject: {fileID: 11400000, guid: 21d611492d0e8064bb18dbfdcad4e827, type: 2}
     randomAmount:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
-        inSlope: 1
-        outSlope: 1
-        tangentMode: 34
-        weightedMode: 0
+        value: 1
+        inSlope: 0.61533606
+        outSlope: 0.61533606
+        tangentMode: 0
+        weightedMode: 3
         inWeight: 0
-        outWeight: 0.33333334
+        outWeight: 0.849184
       - serializedVersion: 3
         time: 1
-        value: 1
-        inSlope: 1
-        outSlope: 1
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
+        value: 9.543
+        inSlope: 258.46277
+        outSlope: 258.46277
+        tangentMode: 0
+        weightedMode: 3
+        inWeight: 0.026388884
         outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -279,9 +279,9 @@ MonoBehaviour:
   minTotalScrapValue: 250
   maxTotalScrapValue: 750
   levelAmbienceClips: {fileID: 11400000, guid: e080928aa9df7b141b32615dae488068, type: 2}
-  maxEnemyPowerCount: 20
-  maxOutsideEnemyPowerCount: 8
-  maxDaytimeEnemyPowerCount: 6
+  maxEnemyPowerCount: 19
+  maxOutsideEnemyPowerCount: 7
+  maxDaytimeEnemyPowerCount: 4
   Enemies:
   - enemyType: {fileID: 11400000, guid: 71e4aee34a64e73409331aa635812bb8, type: 2}
     rarity: 31
@@ -300,6 +300,10 @@ MonoBehaviour:
   - enemyType: {fileID: 11400000, guid: 3ef8b9cf4f443d44aaea0d2fce2997b6, type: 2}
     rarity: 1
   OutsideEnemies:
+  - enemyType: {fileID: 11400000, guid: c1174d2c9426edd489fac14dbc38525d, type: 2}
+    rarity: 38
+  - enemyType: {fileID: 11400000, guid: 71e4aee34a64e73409331aa635812bb8, type: 2}
+    rarity: 28
   - enemyType: {fileID: 11400000, guid: eaeb7786773b1c847971280c16f59669, type: 2}
     rarity: 18
   - enemyType: {fileID: 11400000, guid: fd5dd2487650c1d42ab5aafe43c532d7, type: 2}

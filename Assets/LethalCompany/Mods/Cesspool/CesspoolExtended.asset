@@ -22,7 +22,7 @@ MonoBehaviour:
   allowedDungeonContentTypes: 2
   levelTags: []
   levelType: 0
-  infoNodeDescripton: 
+  infoNodeDescripton: Do not drown on Company time.
   routeNode: {fileID: 0}
   routeConfirmNode: {fileID: 0}
   infoNode: {fileID: 0}
