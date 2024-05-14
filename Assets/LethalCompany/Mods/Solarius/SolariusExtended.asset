@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   contentSourceName: 
   selectableLevel: {fileID: 11400000, guid: 2ff6d2c5929931e48bdf829e0cd522b0, type: 2}
-  routePrice: 50
+  routePrice: 0
   isHidden: 0
   isLocked: 0
   lockedNodeText: 
@@ -22,7 +22,7 @@ MonoBehaviour:
   allowedDungeonContentTypes: 2
   levelTags: []
   levelType: 0
-  infoNodeDescripton: 
+  infoNodeDescripton: Docking to port.
   routeNode: {fileID: 0}
   routeConfirmNode: {fileID: 0}
   infoNode: {fileID: 0}

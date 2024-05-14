@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3474032210
+CRC: 3468387293
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0843e5f3c4718ed8a72517491cee4818
+    Hash: dc7a38cb20315ee00bfef4d1dbce98d7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5a2b003b7928b5c56303edc5e335eec6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0843e5f3c4718ed8a72517491cee4818
+    Hash: dc7a38cb20315ee00bfef4d1dbce98d7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -462,6 +462,7 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Models/Wires.fbx
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/player ship test
   6_hull_main_emissive.png
+- Assets/LethalCompany/Mods/Solarius/Models/Planets.fbx
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_LowerGrate_BaseMap_HD.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/journey/journey_engines_base_color.png
 - Assets/LethalCompany/Mods/Solarius/Materials/floor.mat
@@ -470,10 +471,12 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Models/levitater.fbx
 - Assets/LethalCompany/Mods/Solarius/Materials/catwalks-upper.mat
 - Assets/LethalCompany/Mods/Solarius/Materials/ships/solarius dome.mat
+- Assets/LethalCompany/Mods/Solarius/Textures/Planets_Moon_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/Crate 1x1 0.2_Crate 1x1_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Materials/wires.mat
 - Assets/LethalCompany/Mods/Solarius/Prefabs/solarius.prefab
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Wall_Inner_Normal.png
+- Assets/LethalCompany/Mods/Solarius/Textures/Planets_Planet_BaseMap.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/ship_glass_mask.png
 - Assets/LethalCompany/Mods/Solarius/Materials/ledges.mat
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Roof_BaseMap.png
@@ -482,6 +485,7 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Posts_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Materials/ladder.mat
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/spaceship/spaceship_normal.png
+- Assets/LethalCompany/Mods/Solarius/Textures/Planets_Ring_BaseMap.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Posts_BaseMap.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/journey/journey_hull_base_color.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Wall_Back_MaskMap.png
@@ -496,7 +500,9 @@ Assets:
   6_hull_main_normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/vorpal/vorpal_normal_opengl.png
 - Assets/LethalCompany/Mods/Solarius/Models/armalon.fbx
+- Assets/LethalCompany/Mods/Solarius/Textures/Planets_Planet_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_LowerGrate_MaskMap_HD.png
+- Assets/LethalCompany/Mods/Solarius/Materials/Planet-Moon.mat
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solar_sails_skybox_test_edit_2.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Tunnel_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Ledges_BaseMap_v2.png
@@ -505,6 +511,7 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/player ship test
   6_engine_basecolor.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Platform_Normal.png
+- Assets/LethalCompany/Mods/Solarius/Materials/Planet-Ring.mat
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Edges_BaseMap.png
 - Assets/LethalCompany/Mods/Solarius/Materials/ships/solarius sails.mat
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Edges_Normal.png
@@ -520,6 +527,7 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_UpperGrate_Normal_HD.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/ship_sails_mask.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/journey/journey_engines_emissive.png
+- Assets/LethalCompany/Mods/Solarius/Textures/Planets_Ring_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Materials/Shader/Blink 3.mat
 - Assets/LethalCompany/Mods/Solarius/Materials/wall-back.mat
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_BeamsLower_Normal.png
@@ -529,12 +537,14 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Materials/Shader/Blink 1.mat
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Beneath_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Ladder_DefaultMaterial_MaskMap.png
+- Assets/LethalCompany/Mods/Solarius/Models/orbit moon.controller
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Doorways_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Materials/ships/spaceship.mat
 - Assets/LethalCompany/Mods/Solarius/Materials/catwalks-edges.mat
 - Assets/LethalCompany/Mods/Solarius/SolariusLevel.asset
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Barricade_BaseMap.png
 - Assets/LethalCompany/Mods/Solarius/Materials/doorways.mat
+- Assets/LethalCompany/Mods/Solarius/Sounds/RIP-EmbrionAmbience.ogg
 - Assets/LethalCompany/Mods/Solarius/Textures/Crate 2x3_DefaultMaterial_BaseColor.png
 - Assets/LethalCompany/Mods/Solarius/Models/add-on.fbx
 - Assets/LethalCompany/Mods/Solarius/Materials/roof.mat
@@ -548,6 +558,8 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Stairs_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/journey/journey_engines_normal_opengl.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_BeamsLower_BaseMap.png
+- Assets/LethalCompany/Mods/Solarius/Textures/Planets_Moon_MaskMap.png
+- Assets/LethalCompany/Mods/Solarius/Textures/Planets_Planet_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Models/Volume.fbx
 - Assets/LethalCompany/Mods/Solarius/Textures/Barrel 1 0.2_DefaultMaterial_BaseColor.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/armalon/armalon_normal_opengl.png
@@ -564,17 +576,22 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Topper_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Materials/Shader/Blink.shadergraph
 - Assets/LethalCompany/Mods/Solarius/Materials/tunnel.mat
+- Assets/LethalCompany/Mods/Solarius/COO/SolariusCOO.asset
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/ship_hull_main_mask.png
 - Assets/LethalCompany/Mods/Solarius/Textures/Crate 1x1 0.2_Crate 1x1_BaseColor.png
+- Assets/LethalCompany/Mods/Solarius/Materials/Planet-B.mat
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Floor_BaseMap_v2.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Wall_Left_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/hoverboard/hoverboard_n2.png
+- Assets/LethalCompany/Mods/Solarius/Sounds/RIP-BigFactoryInside.ogg
+- Assets/LethalCompany/Mods/Solarius/Sounds/RIP-AlleyFactoryAmbiance.ogg
 - Assets/LethalCompany/Mods/Solarius/Materials/Shader/Blink 0.mat
+- Assets/LethalCompany/Mods/Solarius/COO/Solarius2COO.asset
 - Assets/LethalCompany/Mods/Solarius/Materials/wall-middle.mat
 - Assets/LethalCompany/Mods/Solarius/Models/spin.fbx
-- Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/legs_normal_opengl.png
-- Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Ledges_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Ladder_DefaultMaterial_BaseMap.png
+- Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Ledges_Normal.png
+- Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/legs_normal_opengl.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Roof_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Floor_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/spaceship/spaceship_mask.png
@@ -601,11 +618,13 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/player ship test
   6_sails_basecolor.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Wall_Back_BaseMap.png
-- Assets/LethalCompany/Mods/Solarius/Models/Crate 1x1 0.2.fbx
+- Assets/LethalCompany/Mods/Solarius/Materials/Planet-A.mat
 - Assets/LethalCompany/Mods/Solarius/Materials/ships/vorpal.mat
+- Assets/LethalCompany/Mods/Solarius/Models/Crate 1x1 0.2.fbx
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/player ship test
   6_wings_basecolor.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Wire_Normal.png
+- Assets/LethalCompany/Mods/Solarius/Sounds/RIP-ShipThrusterClose.ogg
 - Assets/LethalCompany/Mods/Solarius/Materials/ships/levitater.mat
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/journey/journey_head_mask.png
 - Assets/LethalCompany/Mods/Solarius/Materials/poles.mat
@@ -616,10 +635,10 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/SolariusExtended.asset
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Stairs_BaseMap.png
 - Assets/LethalCompany/Mods/Solarius/Materials/wall-decal.mat
-- Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/legs_mask.png
-- Assets/LethalCompany/Mods/Solarius/Materials/blockade.mat
-- Assets/LethalCompany/Mods/Solarius/Textures/Barrel 1 0.2_DefaultMaterial_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Wall_Inner_BaseMap_v2.png
+- Assets/LethalCompany/Mods/Solarius/Materials/blockade.mat
+- Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/legs_mask.png
+- Assets/LethalCompany/Mods/Solarius/Textures/Barrel 1 0.2_DefaultMaterial_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Materials/barrel.mat
 - Assets/LethalCompany/Mods/Solarius/Materials/ships/solarius legs.mat
 - Assets/LethalCompany/Mods/Solarius/Materials/ships/hoverboard.mat
@@ -632,6 +651,7 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Materials/wall-right.mat
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Posts_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/hoverboard/hoverboard_c.png
+- Assets/LethalCompany/Mods/Solarius/Textures/Planets_Moon_BaseMap.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Wall_Left_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Topper_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Wire_BaseMap.png
@@ -654,12 +674,15 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Materials/ships/solarius wings.mat
 - Assets/LethalCompany/Mods/Solarius/Materials/underside.mat
 - Assets/LethalCompany/Mods/Solarius/Models/Barrel 1 0.2.fbx
+- Assets/LethalCompany/Mods/Solarius/Textures/Planets_Ring_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/player ship test
   6_engine_normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Wall_Mid_BaseMap.png
+- Assets/LethalCompany/Mods/Solarius/COO/Prefab 2.prefab
 - Assets/LethalCompany/Mods/Solarius/Models/vorpal.fbx
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/hoverboard/hoverboard_mask.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/levitator/levitator_mask.png
+- Assets/LethalCompany/Mods/Solarius/COO/Prefab.prefab
 - Assets/LethalCompany/Mods/Solarius/Textures/Crate 2x3_DefaultMaterial_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Materials/ships/journey engine.mat
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Wall_Mid_MaskMap.png
