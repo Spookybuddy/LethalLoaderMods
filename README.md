@@ -1,8 +1,7 @@
 <div align="center">
 
-# CURRENTLY A WORK IN PROGRESS.
-## CHECK OUT THE LETHAL EXPANSION VERSION [HERE](https://github.com/Spookybuddy/LethalMods) (*Deprecated*)
-## DOWNLOAD THE *.LETHALBUNDLE* FILES TO PLAY THE MAPS
+# LETHAL LEVEL LOADER MOONS
+## DOWNLOAD THE MAPS [HERE](https://thunderstore.io/c/lethal-company/p/SpookyBuddy/)
 
 </div>
 
@@ -14,7 +13,7 @@ Made using [Nomnom's Project Patcher](https://github.com/nomnomab/lc-project-pat
 | Name | Risk Level | Cost | Layout | Map Size Multiplier | Min Scrap | Max Scrap | Max Indoor Power | Max Outdoor Power | Weathers |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Solarius | ??? | 0 | [Factory](https://lethal.miraheze.org/wiki/Interiors#The_Factory) | 1.4 | 19 | 32 | 19 | 7 | Foggy, Eclipsed |
-| Cesspool | Hurry | 0 | [Factory](https://lethal.miraheze.org/wiki/Interiors#The_Factory) | 1.2 | 15 | 19 | 8 | 15 | Always Flooded |
+| Cesspool | Hurry | 0 | [Factory](https://lethal.miraheze.org/wiki/Interiors#The_Factory) | 1.2 | 15 | 19 | 8 | 14 | Always Flooded |
 
 ‎ 
 
@@ -89,8 +88,8 @@ The planet has since been abandoned, leaving the treasure-filled buildings to be
 | [Spore Lizard](https://lethal.miraheze.org/wiki/Spore_Lizard) | 17.89% | | [Earth Leviathan](https://lethal.miraheze.org/wiki/Earth_Leviathan) | 33.33% | | [Tulip Snake](https://lethal.miraheze.org/wiki/Tulip_Snake) | 37.50% |
 | [Hoarding Bug](https://lethal.miraheze.org/wiki/Hoarding_Bug) | 17.07% | | [Forest Keeper](https://lethal.miraheze.org/wiki/Forest_Keeper) | 21.93% | | [Docile Locust](https://lethal.miraheze.org/wiki/Roaming_Locusts) | 14.47% |
 | [Snare Flea](https://lethal.miraheze.org/wiki/Snare_Flea) | 15.45% | | [Baboon Hawk](https://lethal.miraheze.org/wiki/Baboon_Hawk) | 7.02% | | | |
-| [Thumper](https://lethal.miraheze.org/wiki/Thumper) | 13.82% | | [Old Bird](https://lethal.miraheze.org/wiki/Old_Bird) | 1.32% | | | |
-| [Bunker Spider](https://lethal.miraheze.org/wiki/Bunker_Spider)| 13.01% | | [Hygrodere](https://lethal.miraheze.org/wiki/Hygrodere) | 0.44% | | | | | | |
+| [Thumper](https://lethal.miraheze.org/wiki/Thumper) | 13.82% | | [Old Bird](https://lethal.miraheze.org/wiki/Old_Bird) | 1.75% | | | |
+| [Bunker Spider](https://lethal.miraheze.org/wiki/Bunker_Spider)| 13.01% | | | | | | | | | |
 | [Braken](https://lethal.miraheze.org/wiki/Bracken) | 4.07% | | | | | | |
 
 </div>
