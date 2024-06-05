@@ -23,7 +23,7 @@ Made using [Nomnom's Project Patcher](https://github.com/nomnomab/lc-project-pat
 ![Solarius](https://raw.githubusercontent.com/Spookybuddy/LethalMods/main/Screenshots/Sol-Hangar.png)
 :-:
 The large space station provides a rest stop for refueling and supplies. Large hangars provide ample space for landing ships. Just be careful to not fall off the station. And when inside, making loud noises is not advised...
-Unfortunately the AI is currently breaking constantly, and needs more work.
+Fortunately the staff are not rude enough to enter your ship without permission.
  
 ## Moon Details
 
