@@ -152,20 +152,20 @@ MonoBehaviour:
       - serializedVersion: 3
         time: 0
         value: 0
-        inSlope: 1.5579528
-        outSlope: 1.5579528
+        inSlope: 0.8654082
+        outSlope: 0.8654082
         tangentMode: 0
         weightedMode: 2
         inWeight: 0
-        outWeight: 0.95720005
+        outWeight: 1
       - serializedVersion: 3
         time: 1
-        value: 17.57
-        inSlope: 5.165621
-        outSlope: 5.165621
+        value: 14.57
+        inSlope: 37.306507
+        outSlope: 37.306507
         tangentMode: 0
         weightedMode: 1
-        inWeight: 0.31209242
+        inWeight: 0.22649747
         outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -177,20 +177,20 @@ MonoBehaviour:
       - serializedVersion: 3
         time: 0
         value: 0
-        inSlope: 1.1178352
-        outSlope: 1.1178352
+        inSlope: 0.33839917
+        outSlope: 0.33839917
         tangentMode: 0
         weightedMode: 2
         inWeight: 0
         outWeight: 1
       - serializedVersion: 3
         time: 1
-        value: 14.425
-        inSlope: 10.396505
-        outSlope: 10.396505
+        value: 11.425
+        inSlope: 36.53273
+        outSlope: 36.53273
         tangentMode: 0
         weightedMode: 1
-        inWeight: 0.24089289
+        inWeight: 0.14252979
         outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -227,20 +227,20 @@ MonoBehaviour:
       - serializedVersion: 3
         time: 0
         value: 0
-        inSlope: 8.957583
-        outSlope: 8.957583
+        inSlope: 2.261845
+        outSlope: 2.261845
         tangentMode: 0
         weightedMode: 2
         inWeight: 0
-        outWeight: 0.6759167
+        outWeight: 0.4820233
       - serializedVersion: 3
         time: 1
-        value: 26.965
-        inSlope: 264.0503
-        outSlope: 264.0503
+        value: 21.965
+        inSlope: 1144.1622
+        outSlope: 1144.1622
         tangentMode: 0
         weightedMode: 1
-        inWeight: 0.023993313
+        inWeight: 0.013664126
         outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -252,20 +252,20 @@ MonoBehaviour:
       - serializedVersion: 3
         time: 0
         value: 0
-        inSlope: 2.1162152
-        outSlope: 2.1162152
+        inSlope: 0.359791
+        outSlope: 0.359791
         tangentMode: 0
         weightedMode: 2
         inWeight: 0
-        outWeight: 1
+        outWeight: 0.4252578
       - serializedVersion: 3
         time: 1
-        value: 21.23
-        inSlope: 98.78478
-        outSlope: 98.78478
+        value: 17.453
+        inSlope: 9790.415
+        outSlope: 9790.415
         tangentMode: 0
         weightedMode: 1
-        inWeight: 0.07839978
+        inWeight: 0.0015018582
         outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -327,8 +327,8 @@ MonoBehaviour:
   maxTotalScrapValue: 600
   levelAmbienceClips: {fileID: 11400000, guid: 63945ce3217e3ad49a14383b2f0e99ff, type: 2}
   maxEnemyPowerCount: 8
-  maxOutsideEnemyPowerCount: 15
-  maxDaytimeEnemyPowerCount: 5
+  maxOutsideEnemyPowerCount: 14
+  maxDaytimeEnemyPowerCount: 6
   Enemies:
   - enemyType: {fileID: 11400000, guid: 65c0b9103d7d5af49907a13c068192ae, type: 2}
     rarity: 23
@@ -354,9 +354,7 @@ MonoBehaviour:
   - enemyType: {fileID: 11400000, guid: 78e8cd328718d1e429b88c1cf38c2289, type: 2}
     rarity: 16
   - enemyType: {fileID: 11400000, guid: 5f459e03bcf5f1b4080a15a611121823, type: 2}
-    rarity: 3
-  - enemyType: {fileID: 11400000, guid: 65c0b9103d7d5af49907a13c068192ae, type: 2}
-    rarity: 1
+    rarity: 4
   DaytimeEnemies:
   - enemyType: {fileID: 11400000, guid: 86a58e66ea3c477449a40b6cde7cc599, type: 2}
     rarity: 73
@@ -507,9 +505,9 @@ MonoBehaviour:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 3
-      inSlope: -7.5000854
-      outSlope: -7.5000854
+      value: 3.852
+      inSlope: 0
+      outSlope: 0
       tangentMode: 0
       weightedMode: 0
       inWeight: 0.33333334
@@ -545,6 +543,6 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   spawnProbabilityRange: 4
-  daytimeEnemiesProbabilityRange: 4
+  daytimeEnemiesProbabilityRange: 2
   levelIncludesSnowFootprints: 0
   levelIconString: mapcesspool

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3444920705
+CRC: 298529711
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c2d59b57ee694da9dab42d851ce6e976
+    Hash: e9cbdd9f99dbc7e23a684b68324efb6e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 20d7faf4a435c88f97d4d64b681ae1c7
+    Hash: 02df22e47ee4d31321690a5e317f49e8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c2d59b57ee694da9dab42d851ce6e976
+    Hash: e9cbdd9f99dbc7e23a684b68324efb6e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -111,8 +111,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 41ff92ea8618b4c4c9351c343d901dfb, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 9a2142810479e25488333df45e937a35, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: cba591a1af6998a42981c3909a5d51d3, type: 3}
@@ -124,8 +122,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 59b6606ef2548734bb6d11b9d160bc7e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 73801e570e1c8e14b8127fabae49e2d6, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5107373ad9fc1684daa0710fdf9fc1fc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 772690720aaceac4e8f610420757ca7c, type: 3}
 - Class: 114
@@ -201,8 +197,6 @@ ClassTypes:
 - Class: 137
   Script: {instanceID: 0}
 - Class: 145
-  Script: {instanceID: 0}
-- Class: 156
   Script: {instanceID: 0}
 - Class: 164
   Script: {instanceID: 0}
@@ -396,16 +390,13 @@ Assets:
 - Assets/LethalCompany/Mods/Cesspool/Textures/custom/cloudy.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Pipe_Material_MaskMap.png
 - Assets/LethalCompany/Mods/Cesspool/Materials/fencePosts.mat
-- Assets/LethalCompany/Mods/Cesspool/Models/Shrubbery.fbx
-- Assets/LethalCompany/Mods/Cesspool/Textures/custom/well_normal.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/custom/Spiral.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/well_normal.png
+- Assets/LethalCompany/Mods/Cesspool/Models/RIP-RockGrouping2.asset
 - Assets/LethalCompany/Mods/Cesspool/Materials/poles.mat
 - Assets/LethalCompany/Mods/Cesspool/Materials/basin.mat
-- Assets/LethalCompany/Mods/Cesspool/Prefabs/Drainage.prefab
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_South_BaseMap.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_West_Normal.png
-- Assets/LethalCompany/Mods/Cesspool/Materials/terrain tile.mat
-- Assets/LethalCompany/Mods/Cesspool/Prefabs/sewers.prefab
 - Assets/LethalCompany/Mods/Cesspool/Materials/drain.mat
 - Assets/LethalCompany/Mods/Cesspool/Sounds/RIP-AlleyFactoryAmbiance.ogg
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/floor_mask.png
@@ -415,35 +406,25 @@ Assets:
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_Distant_Normal.png
 - Assets/LethalCompany/Mods/Cesspool/Models/RIP-Cylinder_5.asset
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Quicksand_BaseMap.png
-- Assets/LethalCompany/Mods/Cesspool/CessTerra.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Pipe_Material_Normal.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/custom/Posts_Rust.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Block_DefaultMaterial_MaskMap.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/custom/RIP-QuicksandWarningSign.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/custom/Bar.png
-- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Pipe_Material_Normal.png
 - Assets/LethalCompany/Mods/Cesspool/Materials/water 1.mat
-- Assets/LethalCompany/Mods/Cesspool/Prefabs/Corner.prefab
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Hole_DefaultMaterial_BaseMap.png
+- Assets/LethalCompany/Mods/Cesspool/Materials/RIP-RockTextureGrey.mat
 - Assets/LethalCompany/Mods/Cesspool/Materials/valve.mat
 - Assets/LethalCompany/Mods/Cesspool/Materials/Bush2.mat
-- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Pipe-Corner_Material_BaseMap.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_East_MaskMap.png
-- Assets/LethalCompany/Mods/Cesspool/Prefabs/Segment.prefab
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Quicksand_Normal.png
 - Assets/LethalCompany/Mods/Cesspool/Materials/underwell.mat
-- Assets/LethalCompany/Mods/Cesspool/Materials/pipe-corner.mat
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Hole_DefaultMaterial_MaskMap.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/custom/Steps_Normal.png
-- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Quicksand_Normal.png
-- Assets/LethalCompany/Mods/Cesspool/Sounds/RIP-Alley.asset
 - Assets/LethalCompany/Mods/Cesspool/Textures/custom/Pole_basemap.jpg
 - Assets/LethalCompany/Mods/Cesspool/Models/Foliage2.fbx
-- Assets/LethalCompany/Mods/Cesspool/Textures/custom/Bar_Normal.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/custom/well_base_color2.png
-- Assets/LethalCompany/Mods/Cesspool/Prefabs/Foliage2.prefab
-- Assets/LethalCompany/Mods/Cesspool/Sounds/RIP-WalkieTalkieTalkingNotHeld.ogg
-- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Pipe-Corner_Material_Normal.png
-- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Distant Terrain Normal.png
-- Assets/LethalCompany/Mods/Cesspool/Prefabs/Manhole.prefab
+- Assets/LethalCompany/Mods/Cesspool/Models/Shrub.fbx
 - Assets/LethalCompany/Mods/Cesspool/Materials/pipe-bolts.mat
 - Assets/LethalCompany/Mods/Cesspool/Materials/sun.mat
 - Assets/LethalCompany/Mods/Cesspool/Textures/custom/underwell_normal.png
@@ -452,26 +433,25 @@ Assets:
 - Assets/LethalCompany/Mods/Cesspool/Models/CessDecor.fbx
 - Assets/LethalCompany/Mods/Cesspool/Materials/sky and fog global volume cesspool.asset
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Tree_DefaultMaterial_MaskMap.png
-- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Distant Terrain Albedo.png
 - Assets/LethalCompany/Mods/Cesspool/Models/Sewers.fbx
-- Assets/LethalCompany/Mods/Cesspool/Prefabs/Pipe.prefab
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Shrub_Mask.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Pipe-Bolts_Material_Normal.png
 - Assets/LethalCompany/Mods/Cesspool/Materials/New Water.shadergraph
+- Assets/LethalCompany/Mods/Cesspool/Prefabs/RIP-GreyRockGrouping2.prefab
 - Assets/LethalCompany/Mods/Cesspool/Materials/abyss.mat
-- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Distant Terrain Mask.png
 - Assets/LethalCompany/Mods/Cesspool/Materials/well.mat
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/floor_normal.png
 - Assets/LethalCompany/Mods/Cesspool/Prefabs/Mangrove.prefab
+- Assets/LethalCompany/Mods/Cesspool/Prefabs/RIP-GreyRockGrouping4.prefab
 - Assets/LethalCompany/Mods/Cesspool/Textures/custom/Cesspool Skybox2.jpg
 - Assets/LethalCompany/Mods/Cesspool/Materials/Terrain_North.mat
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_South_MaskMap.png
-- Assets/LethalCompany/Mods/Cesspool/Materials/Terrain_Farlands.mat
 - Assets/LethalCompany/Mods/Cesspool/Materials/fenceBar.mat
 - Assets/LethalCompany/Mods/Cesspool/CesspoolExtended.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_West_BaseMap.png
 - Assets/LethalCompany/Mods/Cesspool/Materials/pipe-block.mat
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Pipe-Bolts_Material_MaskMap.png
-- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_West_BaseMap.png
+- Assets/LethalCompany/Mods/Cesspool/Materials/Terrain_Farlands.mat
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_Distant_MaskMap.png
 - Assets/LethalCompany/Mods/Cesspool/Materials/chainlink.mat
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_Distant_BaseMap.png
@@ -488,29 +468,26 @@ Assets:
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Block_DefaultMaterial_BaseMap.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/floor_alpha.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Drain_DefaultMaterial_MaskMap.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/RIP-TexturesCom_Rock_CliffDesert_512_roughness.png
 - Assets/LethalCompany/Mods/Cesspool/Materials/manhole.mat
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_North_BaseMap.png
-- Assets/LethalCompany/Mods/Cesspool/Prefabs/Bolts.prefab
-- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Pipe-Corner_Material_MaskMap.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Shrub_Normal.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_North_Normal.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Hole_DefaultMaterial_Normal.png
-- Assets/LethalCompany/Mods/Cesspool/Prefabs/Valve.prefab
 - Assets/LethalCompany/Mods/Cesspool/Models/boundaries.fbx
-- Assets/LethalCompany/Mods/Cesspool/Sounds/RIP-OutsideForest.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/RIP-TexturesCom_Rock_CliffDesert_512_normal.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Tree_DefaultMaterial_Normal.png
 - Assets/LethalCompany/Mods/Cesspool/Materials/radio.mat
 - Assets/LethalCompany/Mods/Cesspool/Textures/custom/chainlinkfence_Normal.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/custom/well_base_color.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/custom/Posts_Normal.png
+- Assets/LethalCompany/Mods/Cesspool/Models/RIP-RockGrouping4.asset
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_East_Normal.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Block_DefaultMaterial_Normal.png
 - Assets/LethalCompany/Mods/Cesspool/Sounds/RIP-WalkieTalkieCutOut.ogg
 - Assets/LethalCompany/Mods/Cesspool/Textures/custom/Valve.png
-- Assets/LethalCompany/Mods/Cesspool/Sounds/RIP-SmallRoomReverb.asset
 - Assets/LethalCompany/Mods/Cesspool/Materials/steps.mat
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_West_MaskMap.png
-- Assets/LethalCompany/Mods/Cesspool/Prefabs/WallPipe.prefab
 - Assets/LethalCompany/Mods/Cesspool/Materials/Terrain_South.mat
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Tree_DefaultMaterial_BaseMap.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Drain_DefaultMaterial_BaseMap.png
