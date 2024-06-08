@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 298529711
+CRC: 1245959863
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e9cbdd9f99dbc7e23a684b68324efb6e
+    Hash: d62253d104c473d8d74ccd0d50d31c01
   TypeTreeHash:
     serializedVersion: 2
     Hash: 02df22e47ee4d31321690a5e317f49e8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e9cbdd9f99dbc7e23a684b68324efb6e
+    Hash: d62253d104c473d8d74ccd0d50d31c01
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -437,12 +437,9 @@ Assets:
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Shrub_Mask.png
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Pipe-Bolts_Material_Normal.png
 - Assets/LethalCompany/Mods/Cesspool/Materials/New Water.shadergraph
-- Assets/LethalCompany/Mods/Cesspool/Prefabs/RIP-GreyRockGrouping2.prefab
 - Assets/LethalCompany/Mods/Cesspool/Materials/abyss.mat
 - Assets/LethalCompany/Mods/Cesspool/Materials/well.mat
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/floor_normal.png
-- Assets/LethalCompany/Mods/Cesspool/Prefabs/Mangrove.prefab
-- Assets/LethalCompany/Mods/Cesspool/Prefabs/RIP-GreyRockGrouping4.prefab
 - Assets/LethalCompany/Mods/Cesspool/Textures/custom/Cesspool Skybox2.jpg
 - Assets/LethalCompany/Mods/Cesspool/Materials/Terrain_North.mat
 - Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_South_MaskMap.png
