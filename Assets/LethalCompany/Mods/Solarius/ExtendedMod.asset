@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -194780425, guid: 73bbe94362a968f46b75d87298ef90b8, type: 3}
+  m_Name: ExtendedMod
+  m_EditorClassIdentifier: 
+  <ModName>k__BackingField: Solarius
+  <AuthorName>k__BackingField: Spookybuddy
+  <ModMergeSetting>k__BackingField: 0
+  <ExtendedLevels>k__BackingField:
+  - {fileID: 11400000, guid: 681f03e479f73b54fb5a312a803840be, type: 2}
+  <ExtendedDungeonFlows>k__BackingField: []
+  <ExtendedItems>k__BackingField: []
+  <ExtendedEnemyTypes>k__BackingField: []
+  <ExtendedWeatherEffects>k__BackingField: []
+  <ExtendedFootstepSurfaces>k__BackingField: []
+  <ExtendedStoryLogs>k__BackingField: []
+  <ExtendedBuyableVehicles>k__BackingField: []

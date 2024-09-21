@@ -1,0 +1,331 @@
+ManifestFileVersion: 0
+CRC: 3002937995
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe1f8bdd41770d28b8de069a1f9d4ea5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b199fc1e9d93bfa6a7ef30dd34962f9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fe1f8bdd41770d28b8de069a1f9d4ea5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1150276337, guid: 73bbe94362a968f46b75d87298ef90b8, type: 3}
+- Class: 114
+  Script: {fileID: -194780425, guid: 73bbe94362a968f46b75d87298ef90b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef10dd7cbfdc07c49bd8895cff849e48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d7593b3a9277ac4696b20006c21dde2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ada4fd962e047a4a86b67157f535776, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e9e4ed5a6f56fb4ebd693e39684f36f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cba591a1af6998a42981c3909a5d51d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59b6606ef2548734bb6d11b9d160bc7e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 953beb541740ddc499d005ee80c9ff29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 42663ccfe56641d469e59953ce7dbb6b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ddcec8a8eb2d684d833ac8f5d26aebd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e002eba5cdc26a4bb855242874895dd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+- Class: 363
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: IntWithRarity
+- AssemblyName: Assembly-CSharp
+  ClassName: NavSizeLimit
+- AssemblyName: Assembly-CSharp
+  ClassName: RandomWeatherWithVariables
+- AssemblyName: Assembly-CSharp
+  ClassName: SpawnableEnemyWithRarity
+- AssemblyName: Assembly-CSharp
+  ClassName: SpawnableItemWithRarity
+- AssemblyName: Assembly-CSharp
+  ClassName: SpawnableMapObject
+- AssemblyName: Assembly-CSharp
+  ClassName: SpawnableOutsideObjectWithRarity
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.AnimationCurveParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.BoolParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ColorParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.CubemapParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.FloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.MinFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.NoInterpClampedIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.NoInterpIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.NoInterpMinFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Texture2DParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.TextureParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector2Parameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector3Parameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.VolumeParameter`1[UnityEngine.Rendering.HighDefinition.HDRISky/DistortionMode]
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BackplateTypeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.CascadeEndBorderParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.CascadePartitionSplitParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.EnvUpdateParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogColorParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogControlParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogDenoisingModeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogTypeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.ScalableSettingLevelParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.SkyAmbientModeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.SkyIntensityParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudControlParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudErosionNoiseParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudFadeInModeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudMapResolutionParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudPresetsParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudShadowResolutionParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.WindOrientationParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.WindParameter/WindParamaterValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.WindSpeedParameter
+Assets:
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Quicksand_MaskMap.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/GarbageLid.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Pipe_Material_BaseMap.png
+- Assets/LethalCompany/Mods/Cesspool/Sounds/RIP-Forest.ogg
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/Pole_Normal.png
+- Assets/LethalCompany/Mods/Cesspool/Materials/mangrove.mat
+- Assets/LethalCompany/Mods/Cesspool/Materials/quicksand.mat
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/chainlinkfence.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/cloudy.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/Mug.asset
+- Assets/LethalCompany/Mods/Cesspool/Materials/fencePosts.mat
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/CaveDwellerBaby.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/well_normal.png
+- Assets/LethalCompany/Mods/Cesspool/Models/RIP-RockGrouping2.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/EnemyType/SandWorm.asset
+- Assets/LethalCompany/Mods/Cesspool/Materials/poles.mat
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/Spiral.png
+- Assets/LethalCompany/Mods/Cesspool/Materials/basin.mat
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/Drip.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Pipe_Material_MaskMap.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_South_BaseMap.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_West_Normal.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/Hairdryer.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/SpikeRoofTrapHazard.prefab
+- Assets/LethalCompany/Mods/Cesspool/Materials/drain.mat
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/floor_mask.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/ToiletPaperRolls.asset
+- Assets/LethalCompany/Mods/Cesspool/CesspoolLevel.asset
+- Assets/LethalCompany/Mods/Cesspool/Sounds/RIP-AlleyFactoryAmbiance.ogg
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Drain_DefaultMaterial_Normal.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/BigBolt.asset
+- Assets/LethalCompany/Mods/Cesspool/Materials/Terrain_East.mat
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_Distant_Normal.png
+- Assets/LethalCompany/Mods/Cesspool/Models/RIP-Cylinder_5.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Quicksand_BaseMap.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Pipe_Material_Normal.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/ChemicalJug.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/Posts_Rust.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/RIP-QuicksandWarningSign.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/Bar.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/EnemyType/RadMech_0.asset
+- Assets/LethalCompany/Mods/Cesspool/Materials/water 1.mat
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Block_DefaultMaterial_MaskMap.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Hole_DefaultMaterial_BaseMap.png
+- Assets/LethalCompany/Mods/Cesspool/Materials/RIP-RockTextureGrey.mat
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/RubberDuck.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/TeaKettle.asset
+- Assets/LethalCompany/Mods/Cesspool/Materials/Bush2.mat
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_East_MaskMap.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/SteeringWheel.asset
+- Assets/LethalCompany/Mods/Cesspool/Materials/valve.mat
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/SodaCanRed.asset
+- Assets/LethalCompany/Mods/Cesspool/Materials/underwell.mat
+- Assets/LethalCompany/Mods/Cesspool/Blank References/SpawnableOutsideObject/SmallGreyRocks1.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Hole_DefaultMaterial_MaskMap.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/Steps_Normal.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Quicksand_Normal.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/YieldSign.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/FishTestProp.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/Pole_basemap.jpg
+- Assets/LethalCompany/Mods/Cesspool/Models/Foliage2.fbx
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/well_base_color2.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/Cog1.asset
+- Assets/LethalCompany/Mods/Cesspool/Models/Shrub.fbx
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/MoldPan.asset
+- Assets/LethalCompany/Mods/Cesspool/Sounds/RIP-CaveWaterTrickle1.ogg
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/PickleJar.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/MetalSheet.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/RedLocustHive.asset
+- Assets/LethalCompany/Mods/Cesspool/Materials/pipe-bolts.mat
+- Assets/LethalCompany/Mods/Cesspool/Materials/sun.mat
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/underwell_normal.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/SpawnableOutsideObject/GiantPumpkin.asset
+- Assets/LethalCompany/Mods/Cesspool/Materials/Drips.mat
+- Assets/LethalCompany/Mods/Cesspool/Sounds/RIP-CalmWater.ogg
+- Assets/LethalCompany/Mods/Cesspool/Materials/Terrain_West.mat
+- Assets/LethalCompany/Mods/Cesspool/Models/CessDecor.fbx
+- Assets/LethalCompany/Mods/Cesspool/Materials/sky and fog global volume cesspool.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Tree_DefaultMaterial_MaskMap.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/LevelAmbienceLibrary/ForestTypeAmbienceMineshaft.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/EnemyType/Crawler.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/EggBeater.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/EnemyType/Puffer_0.asset
+- Assets/LethalCompany/Mods/Cesspool/Models/Sewers.fbx
+- Assets/LethalCompany/Mods/Cesspool/Blank References/SpawnableOutsideObject/Tree1.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Shrub_Mask.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/antenna_base_color.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Pipe-Bolts_Material_Normal.png
+- Assets/LethalCompany/Mods/Cesspool/Materials/New Water.shadergraph
+- Assets/LethalCompany/Mods/Cesspool/Materials/abyss.mat
+- Assets/LethalCompany/Mods/Cesspool/Materials/well.mat
+- Assets/LethalCompany/Mods/Cesspool/Blank References/EnemyType/CaveDweller.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/EnemyType/SandSpider.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/Toothpaste.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/floor_normal.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/EnemyType/Blob.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/DustPan.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/Cesspool Skybox2.jpg
+- Assets/LethalCompany/Mods/Cesspool/Blank References/EnemyType/Flowerman.asset
+- Assets/LethalCompany/Mods/Cesspool/Materials/Terrain_North.mat
+- Assets/LethalCompany/Mods/Cesspool/Blank References/EnemyType/ForestGiant_0.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_South_MaskMap.png
+- Assets/LethalCompany/Mods/Cesspool/Materials/fenceBar.mat
+- Assets/LethalCompany/Mods/Cesspool/CesspoolExtended.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_West_BaseMap.png
+- Assets/LethalCompany/Mods/Cesspool/Materials/pipe-block.mat
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Pipe-Bolts_Material_MaskMap.png
+- Assets/LethalCompany/Mods/Cesspool/Materials/Terrain_Farlands.mat
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_Distant_MaskMap.png
+- Assets/LethalCompany/Mods/Cesspool/Materials/chainlink.mat
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_Distant_BaseMap.png
+- Assets/LethalCompany/Mods/Cesspool/Materials/pipe.mat
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/antenna_normal.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/Bell.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Pipe-Bolts_Material_BaseMap.png
+- Assets/LethalCompany/Mods/Cesspool/Materials/RIP-QuicksandSignMat.mat
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_South_Normal.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/EnemyType/MouthDog.asset
+- Assets/LethalCompany/Mods/Cesspool/Scenes/CesspoolScene/NavMesh-Environment.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/LevelAmbienceLibrary/ForestTypeAmbience.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/BottleBin.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/EnemyType/DocileLocustBees.asset
+- Assets/LethalCompany/Mods/Cesspool/Sounds/RIP-BigFactoryInside.ogg
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/Flask.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/Dentures.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Block_DefaultMaterial_BaseMap.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/PlasticCup.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Drain_DefaultMaterial_MaskMap.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/EnemyType/BushWolf_0.asset
+- Assets/LethalCompany/Mods/Cesspool/ExtendedMod.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/EnemyType/BaboonHawk.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/RIP-TexturesCom_Rock_CliffDesert_512_roughness.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_North_MaskMap.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_East_BaseMap.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/floor_alpha.png
+- Assets/LethalCompany/Mods/Cesspool/Materials/manhole.mat
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_North_BaseMap.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Shrub_Albedo.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Shrub_Normal.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_North_Normal.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Hole_DefaultMaterial_Normal.png
+- Assets/LethalCompany/Mods/Cesspool/Models/boundaries.fbx
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/RIP-TexturesCom_Rock_CliffDesert_512_normal.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/EnemyType/FlowerSnake.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Tree_DefaultMaterial_Normal.png
+- Assets/LethalCompany/Mods/Cesspool/Materials/radio.mat
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/chainlinkfence_Normal.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/WhoopieCushion.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/Posts_Normal.png
+- Assets/LethalCompany/Mods/Cesspool/Models/RIP-RockGrouping4.asset
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/well_base_color.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Block_DefaultMaterial_Normal.png
+- Assets/LethalCompany/Mods/Cesspool/Sounds/RIP-WalkieTalkieCutOut.ogg
+- Assets/LethalCompany/Mods/Cesspool/Textures/custom/Valve.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_East_Normal.png
+- Assets/LethalCompany/Mods/Cesspool/Materials/steps.mat
+- Assets/LethalCompany/Mods/Cesspool/Blank References/EnemyType/Centipede.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/StopSign.asset
+- Assets/LethalCompany/Mods/Cesspool/Scenes/CesspoolScene/OcclusionCullingData.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/EnemyType/RedLocustBees.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/EasterEgg.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/SpawnableOutsideObject/TreeLeafless1.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Landmine.prefab
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cesspool_4k_West_MaskMap.png
+- Assets/LethalCompany/Mods/Cesspool/Blank References/EnemyType/HoarderBug.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/SpawnableOutsideObject/SmallGreyRocks2.asset
+- Assets/LethalCompany/Mods/Cesspool/Blank References/Item/GoldBar.asset
+- Assets/LethalCompany/Mods/Cesspool/Materials/Terrain_South.mat
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Drain_DefaultMaterial_BaseMap.png
+- Assets/LethalCompany/Mods/Cesspool/Textures/substance/Cess-Tree_DefaultMaterial_BaseMap.png
+Dependencies: []

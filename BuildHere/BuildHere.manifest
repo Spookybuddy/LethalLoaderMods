@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2198801151
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: solarius.lethalbundle
+      Dependencies: {}
+    Info_1:
+      Name: solariusscene.lethalbundle
+      Dependencies:
+        Dependency_0: solarius.lethalbundle
+    Info_2:
+      Name: cesspool.lethalbundle
+      Dependencies: {}
+    Info_3:
+      Name: cesspoolscene.lethalbundle
+      Dependencies:
+        Dependency_0: cesspool.lethalbundle
+    Info_4:
+      Name: sampleobject.coo
+      Dependencies: {}
+    Info_5:
+      Name: poob.poob
+      Dependencies: {}
+    Info_6:
+      Name: mapassets.map
+      Dependencies:
+        Dependency_0: sampleobject.coo
