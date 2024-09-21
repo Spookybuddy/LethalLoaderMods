@@ -78,7 +78,9 @@ crashlytics-build.properties
 /[Aa]ssets/[Ll]ethal[Cc]ompany/[Mm]ods/[Cc]ustom[Oo]utside[Oo]bjects/
 /[Aa]ssets/[Ll]ethal[Cc]ompany/[Mm]ods/[Cc]ustom[Ss]crap[Ii]njection/
 /[Aa]ssets/[Ll]ethal[Cc]ompany/[Mm]ods/[Ee]xample[Cc][Oo][Oo]/
-/[Aa]ssets/[Ll]ethal[Cc]ompany/[Mm]ods/[Pp]oob[Aa]sset
+/[Aa]ssets/[Ll]ethal[Cc]ompany/[Mm]ods/[Pp]oob[Aa]sset/
+/[Aa]ssets/[Ll]ethal[Cc]ompany/[Mm]ods/[Mm]ap[Ii]mprovements/
 *.coo
 *.poob
 *.lem
+*.map

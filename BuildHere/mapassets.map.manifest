@@ -1,0 +1,146 @@
+ManifestFileVersion: 0
+CRC: 837888982
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4dd35e265f778531e8b14e4510cf9a3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 797a7d9275bb073b3eedfaaa446a8389
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4dd35e265f778531e8b14e4510cf9a3b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ea159e9c0214354ebea84822e546483, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e3fdca004f2d45fe8abbed571a8abd5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 191
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+Assets:
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-TexturesCom_Rock_CliffDesert_512_normal.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-TexturesCom_Wall_PlasterDamaged3_4x2_512_albedo.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-CatwalkRailBase.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Models/RIP-tree_LOD2.asset
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-TreadplateStairs.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-ForestTexturesAlbedoAtlasAlien.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-treeFlatAlien.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-CatwalkRail.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Models/RIP-Cube-Light.asset
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-DarkSteel.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-MetalGrate 3.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-LEDLight_0.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Models/RIP-LegC2.asset
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Models/RIP-CatwalkStairsAlley.asset
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-treeFlatNormal.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-TexturesCom_Wall_PlasterWeathered2_2x2_512_height.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-CatwalkRailB.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Audio/RIP-UVLightHum.ogg
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-ForestTexture.mat
+- Assets/LethalCompany/Mods/MapImprovements/Maps/Adamance_1.prefab
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Models/RIP-BuildingShort.asset
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-TexturesCom_AirDuct_512_roughness.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-TexturesCom_Rock_CliffDesert_512_roughness.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-GarageDoorFrameTex.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Models/RIP-Walkway1.asset
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Models/RIP-MineDoorFrame.asset
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Models/RIP-tree.asset
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-TexturesCom_Wall_ConcreteBase_2.5x2.5_1K_roughness.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Models/RIP-SideRail2.asset
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-TreeFlat.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-Cement2Dark.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-CorrugatedPlatesAlbedo.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Models/RIP-MineDoorMesh.asset
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-GarageDoorTex 1.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Models/RIP-LegC1.asset
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-TexturesCom_Wall_ConcreteBunkerWeathered_2x2_1K_height.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-TexturesCom_Wall_PlasterDamaged3_4x2_512_normal.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-BridgeRailing.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-RockTextureGrey.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-ShinySteel.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-ForestTexturesNormalAtlasv2.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-RustedMetalNormal.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-MetalGrate 4.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-YellowMineDoorTex.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-CatwalkGrate.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-DirtySmoothSteel.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-TrainTrackCement.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-RustedMetalAlbedo_0.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Models/RIP-RockGrouping4.asset
+- Assets/LethalCompany/Mods/MapImprovements/Maps/Adamance_2.prefab
+- Assets/LethalCompany/Mods/MapImprovements/Prefabs/tree-Rip.prefab
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-CorrugatedPlatesNormal.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-RustedMetalSheet.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-FactoryRoofA.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Models/RIP-CatwalkstairsAlleyLowDetail.asset
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-TexturesCom_Rock_Cliff2_512_albedo.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-TexturesCom_Metal_SteelBattered_512_normal.png
+- Assets/LethalCompany/Mods/MapImprovements/Maps/Adamance.prefab
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-ConstancyTerrain.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Models/RIP-RailRamp.asset
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Models/RIP-Cube.002_3.asset
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-MetalTreadplateNormal
+  1.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-MinecartTex.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-TexturesCom_Wall_ConcreteBunkerWeathered_2x2_1K_normal.png
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-MineDoor.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Models/RIP-tree_LOD1.asset
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-ScaffoldingMetal
+  2.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Models/RIP-Minecart.asset
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Materials/RIP-Minecart.mat
+- Assets/LethalCompany/Mods/MapImprovements/Assets/Textures/RIP-TexturesCom_Metal_SteelBattered_512_albedo.png
+Dependencies:
+- C:/Users/Jimmy/Downloads/Lethal Mods/Lethal Level Loader/LLL/BuildHere/sampleobject.coo

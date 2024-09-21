@@ -12,18 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 1150276337, guid: 73bbe94362a968f46b75d87298ef90b8, type: 3}
   m_Name: SolariusExtended
   m_EditorClassIdentifier: 
-  contentSourceName: 
-  selectableLevel: {fileID: 11400000, guid: 2ff6d2c5929931e48bdf829e0cd522b0, type: 2}
+  <ContentTags>k__BackingField: []
+  <SelectableLevel>k__BackingField: {fileID: 11400000, guid: 2ff6d2c5929931e48bdf829e0cd522b0,
+    type: 2}
   routePrice: 0
-  isHidden: 0
-  isLocked: 0
-  lockedNodeText: 
-  storyLogs: []
-  allowedDungeonContentTypes: 2
+  <OverrideDynamicRiskLevelAssignment>k__BackingField: 1
+  <OverrideQuicksandPrefab>k__BackingField: {fileID: 0}
+  <IsRouteHidden>k__BackingField: 0
+  <IsRouteLocked>k__BackingField: 0
+  <LockedRouteNodeText>k__BackingField: 
+  <ShipFlyToMoonClip>k__BackingField: {fileID: 0}
+  <ShipFlyFromMoonClip>k__BackingField: {fileID: 0}
+  <SceneSelections>k__BackingField: []
+  <OverrideDustStormVolumeSize>k__BackingField: {x: 0, y: 0, z: 0}
+  <OverrideFoggyVolumeSize>k__BackingField: {x: 0, y: 0, z: 0}
+  <OverrideInfoNodeDescription>k__BackingField: 
+  <OverrideRouteNodeDescription>k__BackingField: 
+  <OverrideRouteConfirmNodeDescription>k__BackingField: 
+  <GenerateAutomaticConfigurationOptions>k__BackingField: 1
+  selectableLevel: {fileID: 11400000, guid: 2ff6d2c5929931e48bdf829e0cd522b0, type: 2}
+  contentSourceName: 
   levelTags: []
-  levelType: 0
-  infoNodeDescripton: Docking to port.
-  routeNode: {fileID: 0}
-  routeConfirmNode: {fileID: 0}
-  infoNode: {fileID: 0}
-  generateAutomaticConfigurationOptions: 1
