@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2923908302
+CRC: 398649109
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6aaa5fbf308c700e5546494be51d9adf
+    Hash: b9c7d40548f095552d4475e99bf186d9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d625b715cf85b1b1c2ed13d22eace1cc
+    Hash: 9bea1690cd6c354e9e091c72d0c5fed4
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6aaa5fbf308c700e5546494be51d9adf
+    Hash: b9c7d40548f095552d4475e99bf186d9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -30,8 +30,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 64
   Script: {instanceID: 0}
-- Class: 65
-  Script: {instanceID: 0}
 - Class: 74
   Script: {instanceID: 0}
 - Class: 83
@@ -44,6 +42,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 95
   Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ea159e9c0214354ebea84822e546483, type: 3}
 - Class: 114
   Script: {fileID: 1150276337, guid: 73bbe94362a968f46b75d87298ef90b8, type: 3}
 - Class: 114
@@ -74,6 +74,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 0e002eba5cdc26a4bb855242874895dd, type: 3}
 - Class: 115
   Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
 - Class: 191
@@ -81,6 +83,8 @@ ClassTypes:
 - Class: 208
   Script: {instanceID: 0}
 - Class: 238
+  Script: {instanceID: 0}
+- Class: 363
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
@@ -189,6 +193,7 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Textures/Planets_Planet_BaseMap.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Wall_Inner_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Blank References/Item/Phone.asset
+- Assets/LethalCompany/Mods/Solarius/Textures/_updated/vorpal/vorpal_base_color.png
 - Assets/LethalCompany/Mods/Solarius/Blank References/Item/Cog1.asset
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/ship_glass_mask.png
 - Assets/LethalCompany/Mods/Solarius/Materials/ledges.mat
@@ -202,6 +207,7 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Textures/Planets_Ring_BaseMap.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Posts_BaseMap.png
 - Assets/LethalCompany/Mods/Solarius/Blank References/EnemyType/Nutcracker.asset
+- Assets/LethalCompany/Mods/Solarius/Prefabs/Moon4.prefab
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/journey/journey_hull_base_color.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Wall_Back_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Textures/Pole_Normal.png
@@ -255,9 +261,11 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_BeamsLower_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Platform_BaseMap.png
 - Assets/LethalCompany/Mods/Solarius/Materials/ships/solarius hull.mat
+- Assets/LethalCompany/Mods/Solarius/Models/MiniStation.fbx
 - Assets/LethalCompany/Mods/Solarius/Materials/catwalks-lower.mat
-- Assets/LethalCompany/Mods/Solarius/Textures/Planets_Ring_Normal.png
+- Assets/LethalCompany/Mods/Solarius/Prefabs/RIP-PlanetLeave.anim
 - Assets/LethalCompany/Mods/Solarius/Materials/Shader/Blink 1.mat
+- Assets/LethalCompany/Mods/Solarius/Textures/Planets_Ring_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Beneath_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Ladder_DefaultMaterial_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Models/orbit moon.controller
@@ -286,14 +294,14 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/player ship test
   6_wings_normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Stairs_MaskMap.png
-- Assets/LethalCompany/Mods/Solarius/Textures/_updated/journey/journey_engines_normal_opengl.png
+- Assets/LethalCompany/Mods/Solarius/Prefabs/RIP-GasGiant.controller
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_BeamsLower_BaseMap.png
 - Assets/LethalCompany/Mods/Solarius/Textures/Planets_Moon_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Blank References/Item/BigBolt.asset
 - Assets/LethalCompany/Mods/Solarius/Textures/Planets_Planet_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Blank References/Item/MetalSheet.asset
 - Assets/LethalCompany/Mods/Solarius/Models/Volume.fbx
-- Assets/LethalCompany/Mods/Solarius/Textures/Barrel 1 0.2_DefaultMaterial_BaseColor.png
+- Assets/LethalCompany/Mods/Solarius/Textures/_updated/journey/journey_engines_normal_opengl.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/armalon/armalon_normal_opengl.png
 - Assets/LethalCompany/Mods/Solarius/Materials/ships/armalon.mat
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/player ship test
@@ -304,6 +312,7 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Tunnel_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Blank References/EnemyType/MaskedPlayerEnemy_0.asset
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/spaceship/spaceship_base_color.png
+- Assets/LethalCompany/Mods/Solarius/Textures/Barrel 1 0.2_DefaultMaterial_BaseColor.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/ship_wings_mask.png
 - Assets/LethalCompany/Mods/Solarius/Blank References/SpikeRoofTrapHazard.prefab
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Topper_MaskMap.png
@@ -328,6 +337,7 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Models/spin.fbx
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/legs_normal_opengl.png
 - Assets/LethalCompany/Mods/Solarius/Blank References/EnemyType/Puffer_0.asset
+- Assets/LethalCompany/Mods/Solarius/Prefabs/RIP-Planet1FlyAway.anim
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Ledges_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Roof_Normal.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Floor_Normal.png
@@ -351,6 +361,7 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Models/solarius -4.fbx
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_Wall_Right_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Materials/ships/journey hull.mat
+- Assets/LethalCompany/Mods/Solarius/Prefabs/RIP-LandOnPlanet1.anim
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/ship_engine_mask.png
 - Assets/LethalCompany/Mods/Solarius/Blank References/EnemyType/DressGirl.asset
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/player ship test
@@ -446,5 +457,5 @@ Assets:
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_BeamsUpper_MaskMap.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/solarius/legs_base_color.png
 - Assets/LethalCompany/Mods/Solarius/Textures/_updated/_full/Full_BeamsUpper_BaseMap.png
-- Assets/LethalCompany/Mods/Solarius/Textures/_updated/vorpal/vorpal_base_color.png
+- Assets/LethalCompany/Mods/Solarius/Scenes/SolariusScene/OcclusionCullingData.asset
 Dependencies: []

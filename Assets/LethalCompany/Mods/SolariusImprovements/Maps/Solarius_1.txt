@@ -1,0 +1,28 @@
+Barricade
+Concrete
+Destroy
+
+Remove
+Untagged
+Destroy
+
+Upper (3)
+Concrete
+Destroy
+
+Crate 2x3
+Aluminum
+Move
+-11.62, -12, 8.79
+
+Barrel 1 0.2
+Aluminum
+Move
+-31.25, -12, 9.05
+
+Barrel 1 0.2 (1)
+Aluminum
+Move
+-34.115, -11.5, 9.125
+
+#Adds in a platform for the Company Cruiser to land and drive on. It does require a boosted jump from Weed Killer to reattach however!

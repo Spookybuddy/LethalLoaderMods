@@ -1,0 +1,69 @@
+solarius
+Untagged
+Move
+52, -34.5, 34
+
+ItemShipAnimContainer
+Untagged
+Move
+33.33, 4.9, -100
+
+Audio
+Untagged
+Move
+34.56114, -26.89462, 17.5287
+
+Modifiers
+Untagged
+Move
+34.56114, -26.89462, 17.5287
+
+Reverbs
+Untagged
+Move
+-34.56114, -26.89462, -17.5287
+
+ScanNode
+Untagged
+Disable
+
+CatwalkFill
+Aluminum
+Destroy
+
+EntranceTeleportA
+InteractTrigger
+AllTransforms
+-62.75, 34, 78.25
+-180, 90, 180
+0.4, 16, 34
+
+EntranceTeleportB
+InteractTrigger
+AllTransforms
+-49.75, 28.55, 110
+0, 180, 0
+
+EntranceTeleportC
+InteractTrigger
+FireExit
+-62.4, 30.85, 1.52
+0, -100.6, 0
+2, 3.4, 0.5
+3
+
+ladder (2)
+Untagged
+Move
+-13.95, 1.25, -38.5
+
+NodesAndPoints
+Untagged
+Destroy
+
+Planets
+Untagged
+Move
+-24, 0, 0
+
+#The ship now lands on top of the station instead, with Main Entrance being the visible hangar. One fire Exit has been moved, and another secret one added, leaving the hangar area very empty.
