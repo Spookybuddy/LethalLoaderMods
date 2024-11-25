@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e002eba5cdc26a4bb855242874895dd, type: 3}
   m_Name: SolariusLevel
   m_EditorClassIdentifier: 
-  planetPrefab: {fileID: 1775905768123464, guid: a116550ff91f13b4594aa96a614da594,
+  planetPrefab: {fileID: 1502858733081373762, guid: af0ce25a8e9a5fb42bad7a6023d85423,
     type: 3}
   sceneName: SolariusScene
   levelID: 0

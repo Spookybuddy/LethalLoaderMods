@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2198801151
+CRC: 2476174752
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -23,6 +23,24 @@ AssetBundleManifest:
       Name: poob.poob
       Dependencies: {}
     Info_6:
-      Name: mapassets.map
+      Name: maskragdoll.bundle
+      Dependencies: {}
+    Info_7:
+      Name: scuttlerasset.bundle
+      Dependencies: {}
+    Info_8:
+      Name: mapimprovements.bundle
+      Dependencies: {}
+    Info_9:
+      Name: solariusimprovements.bundle
+      Dependencies: {}
+    Info_10:
+      Name: shale.lethalbundle
+      Dependencies: {}
+    Info_11:
+      Name: shalescene.lethalbundle
       Dependencies:
-        Dependency_0: sampleobject.coo
+        Dependency_0: shale.lethalbundle
+    Info_12:
+      Name: costumes.bundle
+      Dependencies: {}

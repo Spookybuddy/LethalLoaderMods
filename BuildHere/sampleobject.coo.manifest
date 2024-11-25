@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2672625396
+CRC: 3167637115
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3d36f0bdcce28117ea2a400d844c898d
+    Hash: 410c35150c095ca2272129d8d39c1dd7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b23119c15ccab9a61752f94bf982493e
+    Hash: e4619fbc218de5752812ba06a1af0f9f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3d36f0bdcce28117ea2a400d844c898d
+    Hash: 410c35150c095ca2272129d8d39c1dd7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -39,8 +39,6 @@ ClassTypes:
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 3ea159e9c0214354ebea84822e546483, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ef10dd7cbfdc07c49bd8895cff849e48, type: 3}
@@ -62,12 +60,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 208
   Script: {instanceID: 0}
-- Class: 241
-  Script: {instanceID: 0}
-- Class: 243
-  Script: {instanceID: 0}
-- Class: 245
-  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: SpawnableOutsideObjectWithRarity
@@ -76,83 +68,101 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
   ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
 Assets:
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/flickering light.mat
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/GlassBreak.mp3
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Crystals/CrystalGroup.asset
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/LampRarity.asset
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-metalholes.png
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/BreakLamppost2.prefab
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/Snowman_Snowman_MaskMap.png
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-FancyLampTex.png
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Bones/Ribcage.fbx
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-Orange.mat
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Mangrove/MangroveTree.prefab
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/SnowmanRarity.asset
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Base.fbx
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-Orange.mat
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Textures/Fragment3.png
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-FancyLamp.asset
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/SnowPuff.png
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Glass.mat
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Mangrove/Cess-Tree_DefaultMaterial_Normal.png
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/lamp.mat
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/LampFlickerRarity.asset
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Mangrove/mangrove.mat
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/plane_divided_Glass_BaseMap.png
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Bones/LargeRibcageRarity.asset
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Crystals/CrystalGroupRarity.asset
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Materials/shardA.mat
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-ShelfHoles.mat
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/Snowman.asset
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/Hit1.mp3
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/SFXSnowman1.mp3
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Materials/shardB.mat
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Materials/shardC.mat
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-Shelf1.asset
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Lamp.prefab
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Shack.mat
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Lamppost.prefab
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Textures/RIP-Flash.png
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/SFXLamppost2.mp3
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/Snowman.prefab
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Mangrove/Cess-Tree_DefaultMaterial_BaseMap.png
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Textures/Lamp_Material_Normal.png
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/BreakLamppost1.prefab
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/COO-TexturesCom_Wood_MapleVeneer_512_albedo.png
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/LampFlicker.asset
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Materials/RIP-SparkParticle.mat
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Shack.asset
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/Snowman_Snowman_Normal.png
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Bones/Ribcage.mat
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Textures/Lamp_Material_BaseMap.png
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Textures/Fragment1.png
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Mangrove/MangroveRarity.asset
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Mangrove/Cess-Tree_DefaultMaterial_MaskMap.png
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/BreakSnowman1.prefab
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Crystals/Crystal.mat
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Materials/Flicker.shadergraph
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Textures/Flicker.png
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/COO-TexturesCom_Metal_GalvanizedSteel_Old_512_normal.png
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Safehouse2.prefab
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Safehouse.prefab
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/SnowParticle.mat
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Materials/flickering light.mat
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/LampRarity.asset
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-metalholes.png
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/SFXLamppost.mp3
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-FancyLampTex.png
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Bones/Ribcage.fbx
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Mangrove/MangroveTree.prefab
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/ShackVariantRarity.asset
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Textures/Fragment2.png
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/BreakSnowman2.prefab
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Mangrove/Cess-Tree_DefaultMaterial_Normal.png
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Materials/lamp.mat
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/SnowParticle.png
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Bones/Ribcage_Material_Normal.png
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-SteelShelf.mat
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-CoffeeTable.001.asset
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Crystals/Crystal_Material_MaskMap.png
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Textures/Lamp_Material_MaskMap.png
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/plane_divided_Glass_MaskMap.png
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Lamp_Material_MaskMap.png
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-Shelf1.asset
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Lamppost A.prefab
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/SFXSnowman2.mp3
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Crystals/Crystal.fbx
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Lamppost B.prefab
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Shack_Shack_BaseMap.png
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Shack.fbx
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Shack_Shack_BaseMap.png
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/ShackVariant.asset
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Crystals/Crystal_Material_BaseMap.png
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-TexturesCom_Wood_MapleVeneer_512_albedo
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/COO-TexturesCom_Wood_MapleVeneer_512_albedo
   1.png
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Bones/Ribcage_Material_MaskMap.png
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Bones/LargeRibcage.prefab
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-FancyLampTex.mat
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/Snowman_Snowman_BaseMap.png
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/Snowman.prefab
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Mangrove/Cess-Tree_DefaultMaterial_BaseMap.png
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Lamp_Material_Normal.png
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-FurnitureWood.mat
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Bones/Ribcage_Material_BaseMap.png
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-TexturesCom_Wood_MapleVeneer_512_albedo.png
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Mangrove/Mangrove.asset
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Shack.mat
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/LampFlicker.asset
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Crystals/Crystal.prefab
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Shack.asset
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/Hit2.mp3
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Bones/Ribcage.mat
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Lamp.fbx
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-TexturesCom_Metal_GalvanizedSteel_Old_512_roughness.png
+- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/COO-TexturesCom_Metal_GalvanizedSteel_Old_512_roughness.png
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/Snowman.fbx
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Shack_Shack_MaskMap.png
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Lamp.asset
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Lamp_Material_BaseMap.png
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/Snowman_Snowman_Normal.png
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Mangrove/MangroveRarity.asset
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-metalholes 1.png
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Mangrove/Cess-Tree_DefaultMaterial_MaskMap.png
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-BlackRubber.mat
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Crystals/Crystal_Material_Normal.png
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Bones/LargeRibcage.asset
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Shack_Shack_Normal.png
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/ShackRarity.asset
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Crystals/Crystal.mat
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/BreakTree.prefab
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Flicker.png
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Lamps/Flicker.shadergraph
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Mangrove/Mangrove.fbx
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Rips/RIP-TexturesCom_Metal_GalvanizedSteel_Old_512_normal.png
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Shack/Safehouse.prefab
 - Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/snowman.mat
-- Assets/LethalCompany/Mods/CustomOutsideObjects/Snowman/SnowParticle.mat
 Dependencies: []

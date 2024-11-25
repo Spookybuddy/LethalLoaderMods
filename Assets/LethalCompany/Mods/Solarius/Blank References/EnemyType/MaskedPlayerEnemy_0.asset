@@ -107,7 +107,4 @@ MonoBehaviour:
   deathSFX: {fileID: 0}
   stunSFX: {fileID: 0}
   miscAnimations: []
-  audioClips:
-  - {fileID: 8300000, guid: f7396e95c72b128489415e135c29e5cd, type: 3}
-  - {fileID: 8300000, guid: ec1c37707addf9d4c8f93e0d15c246da, type: 3}
-  - {fileID: 8300000, guid: ae023c3796a03c543ba2631cc50226de, type: 3}
+  audioClips: []

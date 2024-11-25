@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e002eba5cdc26a4bb855242874895dd, type: 3}
   m_Name: CesspoolLevel
   m_EditorClassIdentifier: 
-  planetPrefab: {fileID: 1093945388218657, guid: e8bb28f2dddb4db4b98580fb2185554e,
+  planetPrefab: {fileID: 1382105544156844, guid: a71c3e168380d4e45b499ff4e791e8dc,
     type: 3}
   sceneName: CesspoolScene
   levelID: 0
